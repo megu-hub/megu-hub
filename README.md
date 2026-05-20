@@ -19,16 +19,15 @@
 
 ```
 ╔══════════════════════════════════════════════════════╗
-║  name      →  megu                                  ║
+║  name      →  megu · Clara Fernández Pérez          ║
 ║  role      →  student · junior backend developer    ║
-║  focus     →  java · spring boot · cybersecurity    ║
-║  os        →  arch linux  +  kali linux             ║
-║  editor    →  neovim (yes, i'm one of those people) ║
+║  focus     →  programming · linux · cybersecurity   ║
+║  os        →  ubuntu                                ║
 ║  currently →  breaking things & learning from it    ║
 ╚══════════════════════════════════════════════════════╝
 ```
 
-Backend developer with a security mindset. I build APIs with Java and Spring Boot, live in the terminal, and spend my free time on CTF challenges. I believe the best way to build secure systems is to understand exactly how they break.
+Backend developer with a security mindset. While I end my studies, I live in the terminal, and spend my free time on CTF challenges. I believe the best way to build secure systems is to understand exactly how they break.
 
 ---
 
@@ -71,44 +70,6 @@ Backend developer with a security mindset. I build APIs with Java and Spring Boo
 
 ## `$ ls projects/`
 
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 🛡️ VulnScan CLI
-Port scanning and service detection in Python + Bash. Automates recon, version detection, and exports results.
-
-`Python` `Bash` `Nmap` `Linux`
-
-</td>
-<td width="50%" valign="top">
-
-### 🔐 SecureAPI
-REST API with JWT auth, role-based access control, and protection against CSRF and SQL injection. Documented with Swagger.
-
-`Java` `Spring Boot` `Spring Security` `JWT` `MySQL`
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🐧 Dotfiles
-Personal Arch setup: Zsh, Neovim with LSP, tmux, and automation scripts. Fully reproducible.
-
-`Bash` `Zsh` `Lua` `Linux`
-
-</td>
-<td width="50%" valign="top">
-
-### 🚩 CTF Writeups
-Solutions for HackTheBox and TryHackMe. Web exploitation, cryptography, forensics, privilege escalation.
-
-`CTF` `HTB` `TryHackMe` `Python`
-
-</td>
-</tr>
-</table>
 
 ---
 
@@ -133,10 +94,6 @@ for topic in "${TOPICS[@]}"; do echo "[ + ] $topic"; done
 ## `$ neofetch --stats`
 
 <div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=megu-hub&show_icons=true&theme=dark&hide_border=true&bg_color=0d0208&title_color=D4537E&icon_color=D4537E&text_color=f4c0d1&ring_color=72243e&cache_seconds=86400)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=megu-hub&layout=compact&theme=dark&hide_border=true&bg_color=0d0208&title_color=D4537E&text_color=f4c0d1&langs_count=8)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=megu-hub&theme=dark&hide_border=true&background=0d0208&ring=72243e&fire=D4537E&currStreakLabel=f4c0d1&sideLabels=f4c0d1&dates=72243e&currStreakNum=D4537E&sideNums=f4c0d1)
 
