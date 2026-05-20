@@ -1,7 +1,5 @@
 <div align="center">
 
-<img width="200" height="200" src="https://github.com/user-attachments/assets/37f2e1bb-88a1-4ebe-8e03-668cb48d8c73" style="border-radius: 50%"/>
-
 # megu
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=13&duration=3000&pause=800&color=D4537E&center=true&vCenter=true&multiline=false&width=550&lines=backend+dev+%7C+security+enthusiast+%7C+ctf+player;learning+by+breaking+things+and+pushing+to+main+%F0%9F%8C%B8;arch+linux+%2B+neovim+%2B+too+much+coffee)](https://git.io/typing-svg)
