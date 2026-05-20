@@ -19,15 +19,16 @@
 
 ```
 ╔══════════════════════════════════════════════════════╗
-║  name      →  megu / Clara Fernández Pérez          ║
+║  name      →  megu                                  ║
 ║  role      →  student · junior backend developer    ║
-║  focus     →  linux · programming · cybersecurity   ║
-║  os        →  ubuntu                                ║
+║  focus     →  java · spring boot · cybersecurity    ║
+║  os        →  arch linux  +  kali linux             ║
+║  editor    →  neovim (yes, i'm one of those people) ║
 ║  currently →  breaking things & learning from it    ║
 ╚══════════════════════════════════════════════════════╝
 ```
 
-Backend developer with a security mindset. While I continue my studies, I live in the terminal, and spend my free time on CTF challenges. I believe the best way to build secure systems is to understand exactly how they break.
+Backend developer with a security mindset. I build APIs with Java and Spring Boot, live in the terminal, and spend my free time on CTF challenges. I believe the best way to build secure systems is to understand exactly how they break.
 
 ---
 
@@ -133,7 +134,7 @@ for topic in "${TOPICS[@]}"; do echo "[ + ] $topic"; done
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=megu-hub&show_icons=true&theme=dark&hide_border=true&bg_color=0d0208&title_color=D4537E&icon_color=D4537E&text_color=f4c0d1&ring_color=72243e)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=megu-hub&show_icons=true&theme=dark&hide_border=true&bg_color=0d0208&title_color=D4537E&icon_color=D4537E&text_color=f4c0d1&ring_color=72243e&cache_seconds=86400)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=megu-hub&layout=compact&theme=dark&hide_border=true&bg_color=0d0208&title_color=D4537E&text_color=f4c0d1&langs_count=8)
 
