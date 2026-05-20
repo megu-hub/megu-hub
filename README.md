@@ -68,7 +68,10 @@ Backend developer with a security mindset. While I end my studies, I live in the
 
 ## `$ ls projects/`
 
-
+| project | description | stack | status |
+|---------|-------------|-------|--------|
+| [**yovi_en1a**](https://github.com/Arquisoft/yovi_en1a) | Full-stack game platform — React/TS frontend, Node.js user service, and a Rust game engine with bot support. All containerized with Docker. | ![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) | ✅ done |
+| *next project...* | *coming soon* | | 🔧 wip |
 ---
 
 ## `$ cat currently_learning.sh`
