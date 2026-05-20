@@ -19,7 +19,7 @@
 
 ```
 ╔══════════════════════════════════════════════════════╗
-║  name      →  megu                                  ║
+║  name      →  megu / Clara Fernández Pérez          ║
 ║  role      →  student · junior backend developer    ║
 ║  focus     →  linux · programming · cybersecurity   ║
 ║  os        →  ubuntu                                ║
