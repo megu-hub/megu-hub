@@ -2,19 +2,19 @@
 
 <img src="header.svg" width="100%" alt="megu terminal header"/>
 
-<br/>
+</div>
+
+---
+
+<div align="center">
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=3000&pause=800&color=D4537E&center=true&vCenter=true&width=620&lines=%5B+%2B+%5D+backend+dev+%7C+security+enthusiast+%7C+ctf+player;%5B+%2B+%5D+learning+by+breaking+things+%26+pushing+to+main;%5B+%2B+%5D+self-hosting+my+own+Ubuntu+server+%F0%9F%8C%B1;%5B+%2B+%5D+pwning+boxes+on+HackTheBox+%26+TryHackMe+%F0%9F%9A%A9;%5B+%2B+%5D+student+%7C+junior+backend+developer)](https://git.io/typing-svg)
-
-<br/>
 
 [![Location](https://img.shields.io/badge/📍_Spain-1a0a0f?style=flat-square&color=1a0a0f&labelColor=3d1525)](/)
 [![Open to work](https://img.shields.io/badge/🔓_Open_to_work-1a0a0f?style=flat-square&color=1a0a0f&labelColor=72243e)](/)
 [![CTF Player](https://img.shields.io/badge/🚩_CTF_Player-1a0a0f?style=flat-square&color=1a0a0f&labelColor=3d1525)](/)
 
 </div>
-
----
 
 ```
 ╔══════════════════════════════════════════════════════╗
@@ -135,7 +135,7 @@ for topic in "${TOPICS[@]}"; do echo "[ + ] $topic"; done
 [![GitHub](https://img.shields.io/badge/GitHub-100509?style=for-the-badge&logo=github&logoColor=f4c0d1)](https://github.com/megu-hub)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-100509?style=for-the-badge&logo=linkedin&logoColor=f4c0d1)](https://www.linkedin.com/in/clara-fernández-54b5b9396/)
 [![Email](https://img.shields.io/badge/Email-100509?style=for-the-badge&logo=gmail&logoColor=f4c0d1)](mailto:clarafdezprz@email.com)
-[![HackTheBox](https://img.shields.io/badge/HackTheBox-100509?style=for-the-badge&logo=hackthebox&logoColor=9fef00)](https://app.hackthebox.com/profile/megu06)
+[![HackTheBox](https://img.shields.io/badge/HackTheBox-100509?style=for-the-badge&logo=hackthebox&logoColor=9fef00)](https://profile.hackthebox.com/profile/019e49ca-2c68-70f3-afbc-c65377a897e0)
 [![TryHackMe](https://img.shields.io/badge/TryHackMe-100509?style=for-the-badge&logo=tryhackme&logoColor=f4c0d1)](https://tryhackme.com/p/megu)
 
 <br/>
