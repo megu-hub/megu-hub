@@ -69,6 +69,7 @@ Backend developer with a security mindset. While I end my studies, I live in the
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
 
 **Security**
+
 ![GTFOBins](https://img.shields.io/badge/GTFOBins-1a0a0f?style=for-the-badge&logo=gnubash&logoColor=f4c0d1)
 ![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white)
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
