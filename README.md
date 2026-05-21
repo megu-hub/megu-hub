@@ -1,8 +1,10 @@
 <div align="center">
 
-# megu
+<img src="header.svg" width="100%" alt="megu terminal header"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=13&duration=3000&pause=800&color=D4537E&center=true&vCenter=true&multiline=false&width=550&lines=backend+dev+%7C+security+enthusiast+%7C+ctf+player;learning+by+breaking+things+and+pushing+to+main+%F0%9F%8C%B8;too+much+coffee)](https://git.io/typing-svg)
+<br/>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=3000&pause=800&color=D4537E&center=true&vCenter=true&width=620&lines=%5B+%2B+%5D+backend+dev+%7C+security+enthusiast+%7C+ctf+player;%5B+%2B+%5D+learning+by+breaking+things+%26+pushing+to+main;%5B+%2B+%5D+self-hosting+my+own+Ubuntu+server+%F0%9F%8C%B1;%5B+%2B+%5D+pwning+boxes+on+HackTheBox+%26+TryHackMe+%F0%9F%9A%A9;%5B+%2B+%5D+student+%7C+junior+backend+developer)](https://git.io/typing-svg)
 
 <br/>
 
@@ -24,7 +26,7 @@
 ╚══════════════════════════════════════════════════════╝
 ```
 
-Backend developer with a security mindset. While I end my studies, I live in the terminal, and spend my free time on CTF challenges. I believe the best way to build secure systems is to understand exactly how they break. Currently setting up my own Ubuntu server to host my personal projects — figuring it out as I go.
+Backend developer with a security mindset. While I finish my studies, I live in the terminal and spend my free time on CTF challenges. I believe the best way to build secure systems is to understand exactly how they break. Currently setting up my own Ubuntu server to host personal projects — figuring it out as I go.
 
 ---
 
@@ -43,16 +45,14 @@ Backend developer with a security mindset. While I end my studies, I live in the
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![XML](https://img.shields.io/badge/XML-005FAD?style=for-the-badge&logo=xml&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=database&logoColor=white)
+
+**Frameworks & Backend**
+
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 ![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white)
-![Kali Linux](https://img.shields.io/badge/Kali_Linux-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white)
-
-**Frontend & Frameworks**
-
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
 **Databases**
 
@@ -62,18 +62,19 @@ Backend developer with a security mindset. While I end my studies, I live in the
 ![JPA](https://img.shields.io/badge/JPA-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
 ![JDBC](https://img.shields.io/badge/JDBC-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 
-**Observability & Testing**
-
-![Gatling](https://img.shields.io/badge/Gatling-FF9600?style=for-the-badge&logo=gatling&logoColor=white)
-![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
-![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
-
 **Security**
 
 ![GTFOBins](https://img.shields.io/badge/GTFOBins-1a0a0f?style=for-the-badge&logo=gnubash&logoColor=f4c0d1)
 ![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white)
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
 ![Nmap](https://img.shields.io/badge/Nmap-0E83CD?style=for-the-badge&logo=nmap&logoColor=white)
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white)
+
+**Observability & Testing**
+
+![Gatling](https://img.shields.io/badge/Gatling-FF9600?style=for-the-badge&logo=gatling&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
 
 **Tools & IDEs**
 
@@ -81,7 +82,6 @@ Backend developer with a security mindset. While I end my studies, I live in the
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white)
-![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipseide&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 
 ---
@@ -106,7 +106,7 @@ TOPICS=(
   "Traffic analysis with Wireshark"
   "CTF challenges on HackTheBox & TryHackMe"
   "Bash and Python automation"
-  "Self-hosting on Ubuntu — setting up my own server for personal projects"
+  "Self-hosting on Ubuntu — my own server for personal projects"
 )
 
 for topic in "${TOPICS[@]}"; do echo "[ + ] $topic"; done
@@ -120,6 +120,10 @@ for topic in "${TOPICS[@]}"; do echo "[ + ] $topic"; done
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=megu-hub&theme=dark&hide_border=true&background=0d0208&ring=72243e&fire=D4537E&currStreakLabel=f4c0d1&sideLabels=f4c0d1&dates=72243e&currStreakNum=D4537E&sideNums=f4c0d1)
 
+<br/>
+
+[![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=megu-hub&bg_color=0d0208&color=f4c0d1&line=72243e&point=D4537E&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 </div>
 
 ---
@@ -129,15 +133,17 @@ for topic in "${TOPICS[@]}"; do echo "[ + ] $topic"; done
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-100509?style=for-the-badge&logo=github&logoColor=f4c0d1)](https://github.com/megu-hub)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-100509?style=for-the-badge&logo=linkedin&logoColor=f4c0d1)](https://linkedin.com/in/megu)
-[![Email](https://img.shields.io/badge/Email-100509?style=for-the-badge&logo=gmail&logoColor=f4c0d1)](mailto:megu@email.com)
-[![HackTheBox](https://img.shields.io/badge/HackTheBox-100509?style=for-the-badge&logo=hackthebox&logoColor=9fef00)](https://app.hackthebox.com/profile/megu)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-100509?style=for-the-badge&logo=linkedin&logoColor=f4c0d1)](https://www.linkedin.com/in/clara-fernández-54b5b9396/)
+[![Email](https://img.shields.io/badge/Email-100509?style=for-the-badge&logo=gmail&logoColor=f4c0d1)](mailto:clarafdezprz@email.com)
+[![HackTheBox](https://img.shields.io/badge/HackTheBox-100509?style=for-the-badge&logo=hackthebox&logoColor=9fef00)](https://app.hackthebox.com/profile/megu06)
 [![TryHackMe](https://img.shields.io/badge/TryHackMe-100509?style=for-the-badge&logo=tryhackme&logoColor=f4c0d1)](https://tryhackme.com/p/megu)
 
 <br/>
 
-*`"First, solve the problem. Then, write the code." 🌸`*
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=13&duration=4000&pause=1000&color=72243e&center=true&vCenter=true&width=520&lines=%22First%2C+solve+the+problem.+Then%2C+write+the+code.%22+🌸)](https://git.io/typing-svg)
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=72243e,3d1525,D4537E,f4c0d1&height=100&section=footer" width="100%"/>
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=72243e,3d1525,D4537E,f4c0d1&height=120&section=footer" width="100%"/>
