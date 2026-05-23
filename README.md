@@ -178,7 +178,7 @@ echo "[ + ] self-hosting on Ubuntu"
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-100509?style=for-the-badge&logo=github&logoColor=f4c0d1)](https://github.com/megu-hub)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-100509?style=for-the-badge&logo=linkedin&logoColor=f4c0d1)](https://www.linkedin.com/in/clara-fernández-54b5b9396/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-100509?style=for-the-badge&logo=linkedin&logoColor=f4c0d1)](https://www.linkedin.com/in/clara-fernandez-perez-54b5b9396/)
 [![Email](https://img.shields.io/badge/Email-100509?style=for-the-badge&logo=gmail&logoColor=f4c0d1)](mailto:clarafdezprz@email.com)
 
 <br/>
