@@ -6,7 +6,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=13&duration=3000&pause=800&color=D4537E&center=true&vCenter=true&width=500&lines=%5B+%2B+%5D+backend+dev+%7C+security+enthusiast+%7C+ctf+player;%5B+%2B+%5D+learning+by+breaking+things;%5B+%2B+%5D+self-hosting+my+own+Kali+server+%F0%9F%8C%B1;%5B+%2B+%5D+pwning+boxes+on+HackTheBox+%26+TryHackMe;%5B+%2B+%5D+student+%7C+junior+backend+developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=13&duration=3000&pause=800&color=D4537E&center=true&vCenter=true&width=500&lines=%5B+%2B+%5D+backend+dev+%7C+security+enthusiast+%7C+ctf+player;%5B+%2B+%5D+learning+by+breaking+things;%5B+%2B+%5D+self-hosting+my+own+Kali+server+%F0%9F%8C%B1;%5B+%2B+%5D+pwning+boxes+on+HackTheBox;%5B+%2B+%5D+student+%7C+junior+backend+developer)](https://git.io/typing-svg)
 
 <br/>
 
@@ -20,7 +20,7 @@
 
 > **`megu`** · Clara Fernández Pérez
 > 
-> Backend developer with a security mindset. While I finish my studies, I live in the terminal and spend my free time on CTF challenges. I believe the best way to build secure systems is to understand exactly how they break. Currently self-hosting my own Ubuntu server 🌱
+> Backend developer with a security mindset. While I finish my studies, I live in the terminal and spend my free time on CTF challenges. I believe the best way to build secure systems is to understand exactly how they break. Currently self-hosting my own Kali server 🌱
 
 | | |
 |---|---|
