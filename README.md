@@ -6,7 +6,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=13&duration=3000&pause=800&color=D4537E&center=true&vCenter=true&width=500&lines=%5B+%2B+%5D+backend+dev+%7C+security+enthusiast+%7C+ctf+player;%5B+%2B+%5D+learning+by+breaking+things;%5B+%2B+%5D+self-hosting+my+own+Ubuntu+server+%F0%9F%8C%B1;%5B+%2B+%5D+pwning+boxes+on+HackTheBox+%26+TryHackMe;%5B+%2B+%5D+student+%7C+junior+backend+developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=13&duration=3000&pause=800&color=D4537E&center=true&vCenter=true&width=500&lines=%5B+%2B+%5D+backend+dev+%7C+security+enthusiast+%7C+ctf+player;%5B+%2B+%5D+learning+by+breaking+things;%5B+%2B+%5D+self-hosting+my+own+Kali+server+%F0%9F%8C%B1;%5B+%2B+%5D+pwning+boxes+on+HackTheBox+%26+TryHackMe;%5B+%2B+%5D+student+%7C+junior+backend+developer)](https://git.io/typing-svg)
 
 <br/>
 
@@ -26,8 +26,8 @@
 |---|---|
 | **role** | student · junior backend developer |
 | **focus** | programming · linux · cybersecurity |
-| **os** | win11 · macOS · ubuntu |
-| **platforms** | HackTheBox · TryHackMe |
+| **os** | win11 · macOS · kali |
+| **platforms** | HackTheBox |
 
 ---
 
@@ -146,13 +146,12 @@ Desktop-themed webpage about Guipúzcoa built with web technologies.
 ```bash
 #!/usr/bin/env bash
 
-echo "[ + ] web pentesting — OWASP Top 10, SQLi, XSS"
 echo "[ + ] linux privilege escalation"
 echo "[ + ] docker for secure environments"
 echo "[ + ] traffic analysis with Wireshark"
-echo "[ + ] CTF — HackTheBox & TryHackMe"
+echo "[ + ] CTF — HackTheBox"
 echo "[ + ] bash and Python scripting"
-echo "[ + ] self-hosting on Ubuntu"
+echo "[ + ] self-hosting on Kali"
 ```
 
 ---
@@ -184,7 +183,6 @@ echo "[ + ] self-hosting on Ubuntu"
 <br/>
 
 [![HackTheBox](https://img.shields.io/badge/HackTheBox-100509?style=for-the-badge&logo=hackthebox&logoColor=9fef00)](https://profile.hackthebox.com/profile/019e49ca-2c68-70f3-afbc-c65377a897e0)
-[![TryHackMe](https://img.shields.io/badge/TryHackMe-100509?style=for-the-badge&logo=tryhackme&logoColor=f4c0d1)](https://tryhackme.com/p/megu)
 
 <br/>
 
